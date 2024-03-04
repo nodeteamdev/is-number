@@ -1,0 +1,5 @@
+{
+  "name": "@nodeteam/is-number",
+  "version": "0.1.0",
+  "exports": "./is-number.ts"
+}
